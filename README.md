@@ -1,5 +1,8 @@
 # Getting started
 
+### This repo is unofficial! It is not maintained by Disney.
+
+## Some words on submitting new issue
 Before you submit a new issue here it is crucially important that you check if this an issue that is not related to your
 * Account
 * Connection speed
